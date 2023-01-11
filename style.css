@@ -45,7 +45,8 @@ main h2 {
     background-color:lightgray;
 }
 
-.my-bio {
-    background-color: green;
-    color: white;
+.my-style {
+    background-color: black;
+    color: hotpink;
+    padding: 3px;
 }
